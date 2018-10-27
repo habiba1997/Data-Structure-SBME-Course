@@ -1,6 +1,6 @@
 # Data Structure Course [2016 - 2017]
 ### System and Biomedical Engineering (SBME) 
-####Learning Data Strutcture and Algorithms using C++ Language
+Learning Data Strutcture and Algorithms using C++ Language
 ### Tutorial Content:
 
 #####
