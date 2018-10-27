@@ -6,14 +6,14 @@
 ### Tutorial Content:
 
 #####
-:heavy_check_mark:  Memory, pointers, and references
-:heavy_check_mark:  Static Arrays and Dynamic Arrays
-:heavy_check_mark:  Struct, Stacks, Linked Lists, and Queues
-:heavy_check_mark:  Recursion, Big-Oh Notation
-:heavy_check_mark:  Sorting (Bubble Sort, Selection Sort)
-:heavy_check_mark:  Binary Search Trees, Sets (ADT) and Maps (ADT)
+:heavy_check_mark:  Memory, pointers, and references <br>
+:heavy_check_mark:  Static Arrays and Dynamic Arrays <br>
+:heavy_check_mark:  Struct, Stacks, Linked Lists, and Queues <br>
+:heavy_check_mark:  Recursion, Big-Oh Notation <br>
+:heavy_check_mark:  Sorting (Bubble Sort, Selection Sort) <br>
+:heavy_check_mark:  Binary Search Trees, Sets (ADT) and Maps (ADT) <br>
 :heavy_check_mark:  Heaps, Priority Queues (ADT), 
-:heavy_check_mark:  Merge and Quick Sorting,
-:heavy_check_mark:  Hash Tables
+<br>:heavy_check_mark:  Merge and Quick Sorting,
+<br>:heavy_check_mark:  Hash Tables
          
          
